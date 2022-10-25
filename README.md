@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aguennoune
-- 👀 I’m interested in exploratory data analysis and scientific Machine Learning Modeling
-- 🌱 I’m currently learning how to build websites in RStudio so as to host Machine Learning trained models as applications releases 
+- 👀 I’m interested in exploratory data analysis and performing skills required in Modeling with Machine Learning
+- 🌱 I’m currently learning how to build websites in RStudio so as to host Machine Learning trained models as usefull applications releases 
 - 💞️ I’m looking to collaborate on a developing high-impact skills for a digital future
 - 📫 How to reach me, here's my email address: aguennoune4@gmail.com
 
