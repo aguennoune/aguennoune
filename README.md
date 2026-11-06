@@ -15,6 +15,13 @@ Mon travail s'articule autour de l'architecture **ATLAS** — un *Negentropic Wo
 - 📊 **Data Science & Analytics** — PyCaret, Jupyter, Streamlit, dashboards stratégiques SWOT/ATLAS
 - 🏗️ **Architecture SaaS & Micro-SaaS** — plateformes full-stack TypeScript/Python, VS Code extensions
 
+### 🧩 Studio CGD · Compétences ERP
+
+Les 8 compétences ERP les plus demandées, prouvées sur Odoo 20.
+React + Vite (vues JSX), GitHub Pages, contrôles qualité automatiques (Playwright, axe, Lighthouse), thèmes clair et sombre.
+
+[**Voir le site →**](https://aguennoune.github.io/studio-cgd-site/?utm_source=github&utm_medium=social&utm_campaign=lancement-site) · [Code source](https://github.com/aguennoune/studio-cgd-site)
+
 ---
 
 # 💻 Tech Stack
